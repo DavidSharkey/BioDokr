@@ -1,0 +1,6 @@
+{
+	"organism":["human","fly","arabdiposis", "brugia", "aedes","tribolium","schistosoma", "tetrahymena", "galdieria", "maize", "toxoplasma", "caenorhabditis", "elegns", "aspergillus_fumigatus", "aspergillus_nidulans",   "anidulans", "aspergillus_oryzae", "aspergillus terreus", "botrytis_cinerea", "candida_albicans", "saccharomyces"],
+	"strand":["both", "forward", "backward"],
+	"genemodel":["partial","intronless","complete","at least one","exactlyone"]
+			
+}
